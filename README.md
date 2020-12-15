@@ -1,2 +1,2 @@
-# gliggy.github.io
+# AllAboutLeo
 my personal website
