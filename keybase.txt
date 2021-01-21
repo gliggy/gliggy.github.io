@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/crazykoala
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://gliggy.github.io
+  * I am crazykoala (https://keybase.io/crazykoala) on keybase.
+  * I have a public key ASAUmV7e3MAXx_JruC-B4n10phtRAWbYjSxPk6Fg-QhkLwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012014995ededcc017c7f26bb82f81e27d74a61b510166d88d2c4f93a160f908642f0a",
+      "host": "keybase.io",
+      "kid": "012014995ededcc017c7f26bb82f81e27d74a61b510166d88d2c4f93a160f908642f0a",
+      "uid": "9d4b70d6ecc37cc2a577b63469bc4619",
+      "username": "crazykoala"
+    },
+    "merkle_root": {
+      "ctime": 1611269571,
+      "hash": "a4cb43dc44e0b2938b9e352a8e57253c4a8fc43c2c0d58b414074a058d58479255922f716ecd2f95959e42918aa46cc35f3aa0e03fa20979f7618594fc8fc9f8",
+      "hash_meta": "603d0899e6905e5eefe9085f1333896c47d37c2ea65dfb76efb539996e302cf1",
+      "seqno": 18865536
+    },
+    "service": {
+      "entropy": "UHlJ+HbtHJrGfcnmHOtNFYy1",
+      "hostname": "gliggy.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.2"
+  },
+  "ctime": 1611269605,
+  "expire_in": 504576000,
+  "prev": "5a9220f954bc763462ce05afd83d3cbf7e46610438abcda5b736fce100e7aa33",
+  "seqno": 5,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgFJle3tzAF8fya7gvgeJ9dKYbUQFm2I0sT5OhYPkIZC8Kp3BheWxvYWTESpcCBcQgWpIg+VS8djRizgWv2D08v35GYQQ4q82ltzb84QDnqjPEIPFFCDEk9s/O2kQP42hD7hYCi5GmgT6yQx+5JHH1cNh+AgHCo3NpZ8RAnzJvt9nGn8VEcGpufaqxkXxAeUbMO4YK/vKvxMFUuIdDwfCgptAqdz7XvLca5AaDN94welwPCg2TRZ2UXCJyCKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIBr57auY2Hbl5RJi4ddQ5IKlOa8eIdO4ywzYcdeePshNo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/crazykoala
+
+==================================================================
