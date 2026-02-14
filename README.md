@@ -1,2 +1,2 @@
-# AllAboutLeo
+# AllAboutGliggy
 my personal website
